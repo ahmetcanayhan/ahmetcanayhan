@@ -1,11 +1,24 @@
-<h1 align="center">Ahmet Can Ayhan</h1>
-<h3 align="center">Solution Developer</h3>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/ahmetcanayhan" width="120" style="border-radius:50%" alt="Ahmet Can Ayhan"/>
 
-<br/>
+  <h1>Ahmet Can Ayhan</h1>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=63B3ED&center=true&vCenter=true&width=435&lines=Solution+Developer;C%23+%26+.NET+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG"/>
+  </a>
+
+  <br/>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmetcanayhan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmetcanayhan)
+  [![GitHub](https://img.shields.io/badge/GitHub-ahmetcanayhan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ahmetcanayhan)
+  [![Email](https://img.shields.io/badge/Email-ahmetayhan38@icloud.com-0A84FF?style=flat-square&logo=apple&logoColor=white)](mailto:ahmetayhan38@icloud.com)
+</div>
+
+---
 
 ## 👤 About Me
 
-I hold an Associate's Degree in Foreign Trade from Kırklareli University. Combining my background in analytical thinking and process management with software development, I am actively shaping my career in this field. I continue to advance my technical skills through a comprehensive Software Expertise program at Arı Bilgi Eğitim Kurumu.
+I hold an Associate's Degree in Foreign Trade from Kırklareli University. Combining analytical thinking and process management with software development, I am actively shaping my career in this field through a comprehensive Software Expertise program at Arı Bilgi Eğitim Kurumu.
 
 ---
 
@@ -24,10 +37,10 @@ I hold an Associate's Degree in Foreign Trade from Kırklareli University. Combi
 
 ## 📌 Focus Areas
 
-- 🔧 Backend Development: C# and .NET Core / Framework
-- 🗄️ Database Management: SQL Server
-- 🌐 Web Development: HTML, CSS, JavaScript
-- 🏗️ Software Architecture & Solution-Oriented Development
+- 🔧 **Backend Development** — C# and .NET Core / Framework
+- 🗄️ **Database Management** — SQL Server
+- 🌐 **Web Development** — HTML, CSS, JavaScript
+- 🏗️ **Software Architecture** — Solution-Oriented Development
 
 ---
 
@@ -44,8 +57,7 @@ To translate technical knowledge into real-world solutions and establish myself 
 
 ---
 
-## 📫 Contact
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmetcanayhan&color=63b3ed&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</div>
 
-<a href="https://www.linkedin.com/in/ahmetcanayhan">
-  <img src="https://img.shields.io/badge/LinkedIn-Ahmet%20Can%20Ayhan-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
