@@ -1,5 +1,5 @@
 <h1 align="center">Ahmet Can Ayhan</h1>
-<h3 align="center">Junior Solution Developer</h3>
+<h3 align="center">Solution Developer</h3>
 
 <br/>
 
